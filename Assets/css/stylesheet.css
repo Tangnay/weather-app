@@ -1,0 +1,10 @@
+.five-days {
+  display: flex;
+  position: absolute;
+}
+
+.five-days div {
+  margin: 25px;
+  border-style: solid;
+  margin: 10px;
+}
